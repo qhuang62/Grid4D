@@ -1,5 +1,5 @@
-# Grid4D: 4D Decomposed Hash Encoding for High-fidelity Dynamic Scene Rendering
-[NeurIPS 2024] Official implementation of "Grid4D: 4D Decomposed Hash Encoding for High-fidelity Dynamic Scene Rendering"
+# Grid4D: 4D Decomposed Hash Encoding for High-fidelity Dynamic Gaussian Splatting
+[NeurIPS 2024] Official implementation of "Grid4D: 4D Decomposed Hash Encoding for High-fidelity Dynamic Gaussian Splatting"
 
 ![](./assets/overview.jpg)
 
