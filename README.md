@@ -1,5 +1,5 @@
-# Grid4D: 4D Decomposed Hash Encoding for High-fidelity Dynamic Gaussian Splatting
-[NeurIPS 2024] Official implementation of "Grid4D: 4D Decomposed Hash Encoding for High-fidelity Dynamic Gaussian Splatting"
+# Grid4D: 4D Decomposed Hash Encoding for High-Fidelity Dynamic Gaussian Splatting
+[NeurIPS 2024] Official implementation of "Grid4D: 4D Decomposed Hash Encoding for High-Fidelity Dynamic Gaussian Splatting"
 
 ![](./assets/overview.jpg)
 
@@ -26,6 +26,7 @@ cd Grid4D
 conda env create -f environment.yaml
 conda activate Grid4D
 
+# require CUDA 11.X
 pip install -e ./submodules/diff=gaussian-rasterization
 pip install -e ./submodules/simple-knn
 ```
