@@ -84,7 +84,7 @@ This framework has been adapted from [Gaussian Splatting](https://repo-sam.inria
 
 ```
 @article{xu2024grid4d,
-    title={{Grid4D}: {4D} Decomposed Hash Encoding for High-fidelity Dynamic Scene Rendering},
+    title={{Grid4D}: {4D} Decomposed Hash Encoding for High-Fidelity Dynamic Scene Rendering},
     author={Jiawei, Xu and Zexin, Fan and Jian, Yang and Jin, Xie},
     journal={The Thirty-eighth Annual Conference on Neural Information Processing Systems},
     year={2024},
