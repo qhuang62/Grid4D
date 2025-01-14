@@ -27,7 +27,7 @@ conda env create -f environment.yaml
 conda activate Grid4D
 
 # require CUDA 11.X
-pip install -e ./submodules/diff=gaussian-rasterization
+pip install -e ./submodules/diff-gaussian-rasterization
 pip install -e ./submodules/simple-knn
 ```
 
