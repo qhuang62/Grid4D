@@ -27,7 +27,7 @@ conda env create -f environment.yaml
 conda activate Grid4D
 
 # require CUDA 11.X
-pip install -e ./submodules/diff-gaussian-rasterization
+pip install -e ./submodules/depth-diff-gaussian-rasterization
 pip install -e ./submodules/simple-knn
 ```
 
@@ -84,7 +84,7 @@ This framework has been adapted from [Gaussian Splatting](https://repo-sam.inria
 
 ```
 @article{xu2024grid4d,
-    title={{Grid4D}: {4D} Decomposed Hash Encoding for High-Fidelity Dynamic Scene Rendering},
+    title={{Grid4D}: {4D} Decomposed Hash Encoding for High-Fidelity Dynamic Gaussian Splatting},
     author={Jiawei, Xu and Zexin, Fan and Jian, Yang and Jin, Xie},
     journal={The Thirty-eighth Annual Conference on Neural Information Processing Systems},
     year={2024},
