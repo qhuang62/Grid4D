@@ -1,0 +1,40 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.so
+*.dll
+*.dylib
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Dataset and output folders
+data/
+datasets/
+LFMC/
+output/
+logs/
+tmp_build/
+test_cuda_build/
+
+# Build folders
+build/
+*.egg-info/
+
+# Shell scripts or temp config
+install_node.sh
+--conf
+-m
+-s
+
+# Compiled binaries
+*.o
+*.a
+*.out
+*.mod
+*.bin
+
+# Others
+cuda_home_fake/
+
+
